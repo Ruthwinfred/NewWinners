@@ -8,4 +8,7 @@ In this project, I used the following techniques:
 * JQuery
 * Bootstrap
 
+The app which is now published can be accessed here: https://ruthwinfred.github.io/NewWinnersOnlineHospital/Index.html
+You'll first land on the home page which allows you to navigate to other windows like About us, Services,Contact us,etc. However, some pages like Book appointment, Register, Login and Dashboard needs server authontification which are not yet ready but will be very soon. Enjoy your tour at the Winners Online Hospital. 
+
 
