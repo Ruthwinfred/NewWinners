@@ -10,6 +10,7 @@ In this project, I used the following techniques:
 * Bootstrap
 
 The app can be accessed through this link: https://ruthwinfred.github.io/NewWinnersOnlineHospital/Index.html
+You'll first land on the **Home** page which allows you to navigate through **About us**, **Services** and **Contuct us**. However, pages like **Consultation request**, **Book appointment**, **Register** and **Dashboard** needs administration authorization which is currently off, but will be available very soon. Enjoy your tour at The Winners Online Hospital!
 
 ![wns](https://user-images.githubusercontent.com/53862733/147935577-197d5bb5-2ba7-4747-b552-1d5acb301b7e.png)
 
